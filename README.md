@@ -1,21 +1,392 @@
-<h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">A passionate Tech Problem solver from India</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/kHTE4l8X9LZ29iINbk/giphy.webp?cid=ecf05e471fsav2mlanynwiua2wl2dpuronowew7g5kdq0mlj&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+# ⚡ ANURAG AI PORTAL
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyanuraag&label=Profile%20views&color=0e75b6&style=flat" alt="geekyanuraag" /> </p>
+### `AI PRODUCT` × `ARCHITECTURE` × `ENGINEERING` × `GOVERNANCE`
 
-- 🔭 I’m currently working on **AI in Product Management focusing on domains of Automotive and Healthcare**
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Product+Manager;Enterprise+AI+Architect;AI+Transformation+%26+Governance;GenAI+%7C+Agentic+AI+%7C+LLMs;Product+%E2%86%92+Architecture+%E2%86%92+Engineering+%E2%86%92+Scale" />
 
-- 🌱 I’m currently learning **AI**
+<br>
 
-- 📫 How to reach me **mr.anuragblues@gmail.com**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F7FF&height=140&section=header&text=ENTERPRISE%20AI&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/geekyanuraag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geekyanuraag/" height="30" width="40" /></a>
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 AI COMMAND CENTER
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+
+### AI PRODUCT
+
+AI Strategy
+Use Cases
+Product Roadmaps
+MVP → Scale
+Value Realization
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+### ARCHITECTURE
+
+Enterprise AI
+System Design
+Reference Architecture
+Integration
+Scalability
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛡️
+
+### GOVERNANCE
+
+Responsible AI
+Risk & Controls
+Guardrails
+Security
+Compliance
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔄
+
+### TRANSFORMATION
+
+AI Strategy
+Operating Models
+Adoption
+AI CoE
+Enterprise Scale
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 MY AI STACK
+
+<img src="https://skillicons.dev/icons?i=python,azure,aws,docker,kubernetes,linux,mongodb,mysql,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LLMs-00F7FF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Knowledge%20Graphs-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Evaluation-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Guardrails-E11D48?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🛰️ AI TRANSFORMATION ENGINE
+
+```text
+                         ┌─────────────────────┐
+                         │    BUSINESS NEED    │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │  AI OPPORTUNITY     │
+                         │    DISCOVERY        │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                     ┌───────────────────────────┐
+                     │      AI PRODUCT           │
+                     │  Strategy • UX • MVP • ROI │
+                     └─────────────┬─────────────┘
+                                   │
+                                   ▼
+                 ┌─────────────────────────────────┐
+                 │       SOLUTION ARCHITECTURE      │
+                 │                                 │
+                 │   LLM │ RAG │ AGENTS │ APIs    │
+                 │   DATA │ CLOUD │ PLATFORM       │
+                 └────────────────┬────────────────┘
+                                  │
+                                  ▼
+                    ┌──────────────────────────┐
+                    │      AI GOVERNANCE       │
+                    │                          │
+                    │ Risk │ Security │ Privacy│
+                    │ Controls │ Guardrails     │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                       ┌──────────────────┐
+                       │   ENGINEERING    │
+                       │                  │
+                       │ Python │ APIs     │
+                       │ Cloud │ Data      │
+                       └────────┬─────────┘
+                                │
+                                ▼
+                      ┌────────────────────┐
+                      │   ENTERPRISE AI    │
+                      │      AT SCALE      │
+                      └────────────────────┘
+```
+
+---
+
+# 🤖 GENAI LAB
+
+<div align="center">
+
+|     🧩 AI PATTERN    | 🔬 WHAT I'M EXPLORING                |
+| :------------------: | :----------------------------------- |
+|        **RAG**       | Enterprise Knowledge Systems         |
+|     **AI Agents**    | Tool-using intelligent workflows     |
+|    **Agentic AI**    | Autonomous multi-step workflows      |
+| **Knowledge Graphs** | Context-rich enterprise intelligence |
+| **LLM Applications** | Production GenAI products            |
+|  **LLM Evaluation**  | Quality, safety & reliability        |
+|   **AI Guardrails**  | Controlled enterprise AI             |
+| **AI Observability** | Monitoring AI behavior               |
+
+</div>
+
+---
+
+# ☁️ CLOUD AI LAB
+
+<div align="center">
+
+### MICROSOFT AZURE
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure%20Functions-0078D4?style=for-the-badge"/>
+
+<br><br>
+
+### AMAZON WEB SERVICES
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🛡️ AI GOVERNANCE GRID
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                    AI GOVERNANCE                          │
+├──────────────┬──────────────┬──────────────┬─────────────┤
+│     RISK     │   SECURITY   │   PRIVACY    │ COMPLIANCE  │
+├──────────────┼──────────────┼──────────────┼─────────────┤
+│  Use Case    │   Access     │    Data      │ Regulations │
+│ Classification│  Controls   │   Protection │   & Policy  │
+├──────────────┼──────────────┼──────────────┼─────────────┤
+│  GUARDRAILS  │  EVALUATION  │ OBSERVABILITY│ HUMAN-IN-   │
+│              │              │              │  THE-LOOP   │
+└──────────────┴──────────────┴──────────────┴─────────────┘
+```
+
+---
+
+# 🏗️ ARCHITECTURE DECK
+
+<div align="center">
+
+```text
+                  ┌───────────────────────┐
+                  │     AI PRODUCTS       │
+                  └───────────┬───────────┘
+                              │
+               ┌──────────────┴──────────────┐
+               │                             │
+        ┌──────▼───────┐             ┌───────▼──────┐
+        │   AI LAYER   │             │  DATA LAYER  │
+        │              │             │              │
+        │ LLMs         │             │ SQL          │
+        │ Agents       │             │ NoSQL        │
+        │ RAG          │             │ Vector DB    │
+        │ Embeddings   │             │ Knowledge    │
+        └──────┬───────┘             │ Graphs       │
+               │                     └───────┬──────┘
+               │                             │
+               └──────────────┬──────────────┘
+                              │
+                     ┌────────▼────────┐
+                     │ AI PLATFORM     │
+                     │ APIs • Gateway  │
+                     │ Orchestration   │
+                     └────────┬────────┘
+                              │
+                     ┌────────▼────────┐
+                     │ GOVERNANCE      │
+                     │ Security        │
+                     │ Guardrails      │
+                     │ Evaluation      │
+                     └────────┬────────┘
+                              │
+                     ┌────────▼────────┐
+                     │ ENTERPRISE      │
+                     │ INTEGRATION     │
+                     └─────────────────┘
+```
+
+</div>
+
+---
+
+# 💻 ENGINEERING CORE
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,flask,mysql,mongodb,linux,docker,git,github,postman" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### Engineering Capabilities
 
+`Python` `REST APIs` `Backend Development` `System Design` `Microservices`
+
+`SQL` `NoSQL` `Data Processing` `API Design` `Linux` `Git`
+
+---
+
+# 🧬 INDUSTRY AI
+
+<div align="center">
+
+### 🧬 LIFE SCIENCES
+
+**AI • Knowledge Systems • Automation • Decision Support**
+
+### 🏥 HEALTHCARE
+
+**GenAI • Knowledge Management • Intelligent Workflows**
+
+### 🏭 MANUFACTURING
+
+**Computer Vision • Visual Inspection • Predictive AI • Automation**
+
+</div>
+
+---
+
+# 🔭 CURRENTLY IN THE LAB
+
+```text
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│  ◉ AGENTIC AI                                          │
+│  ◉ ENTERPRISE AI ARCHITECTURE                          │
+│  ◉ AI GOVERNANCE & GUARDRAILS                         │
+│  ◉ LLM EVALUATION & OBSERVABILITY                      │
+│  ◉ RAG + KNOWLEDGE GRAPHS                              │
+│  ◉ MULTI-AGENT SYSTEMS                                 │
+│  ◉ AI PLATFORM ENGINEERING                             │
+│  ◉ AI TRANSFORMATION                                  │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📡 GITHUB SIGNAL
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=geekyanuraag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyanuraag&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=geekyanuraag&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 THE OPERATING PRINCIPLE
+
+<div align="center">
+
+### **DON'T START WITH THE MODEL.**
+
+### **START WITH THE PROBLEM.**
+
+<br>
+
+`PROBLEM`
+ → 
+`VALUE`
+ → 
+`AI`
+ → 
+`PRODUCT`
+ → 
+`ARCHITECTURE`
+ → 
+`GOVERNANCE`
+ → 
+`ENGINEERING`
+ → 
+`SCALE`
+
+<br><br>
+
+**Product thinking + Architecture + Engineering + Governance**
+
+<br>
+
+### =
+
+# **ENTERPRISE AI**
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ CONNECT
+
+<a href="https://www.linkedin.com/in/geekyanuraag/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mr.anuragblues@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:203A43,100:0F2027&height=100&section=footer"/>
+
+</div>
